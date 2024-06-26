@@ -1,0 +1,15 @@
+{
+    "multi:max": "4",
+    "done_counter": "16025",
+    "cached_stats": null,
+    "filtered_count": null,
+    "ttl": "300",
+    "filters": null,
+    "skipdone": null,
+    "patternlimits": null,
+    "domain_bytes": {
+        "data": "13907579560"
+    },
+    "maxtries": null,
+    "multi:min": null
+}
